@@ -1,6 +1,8 @@
 <!-- # My GitHub Stats
 ![Piturnah's GitHub stats](https://github-readme-stats.vercel.app/api?username=piturnah&hide_rank=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&show_icons=true&theme=gotham) -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piturnah&langs_count=10&hide=HLSL,Shaderlab,YASnippet,Javascript,Smalltalk,css,scss)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <h3 align="center">Hi! I'm Pit, I love to code and solve problems.</h3>
 <div align="center">
   Currently working on an open source Japanese social media project called <a href="https://github.com/HirobaSite">Hiroba</a>.  
