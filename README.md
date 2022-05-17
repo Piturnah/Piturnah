@@ -1,4 +1,4 @@
-## Piturnah *(he/she)*
+## Piturnah
 
 <div align="center">
   <a href="https://github.com/Piturnah?tab=repositories">
