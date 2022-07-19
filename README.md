@@ -10,6 +10,18 @@
 Hello! I'm **Piturnah** (Pit), and I am a full-time Maths and Computer Science student in the UK. There's not a whole lot of interesting work public on here at the moment, and as a student I don't have as much time as I'd like to be working on OSS. 😔
 
 <details>
+  <p><summary>Favourite</summary></p>
+  <p>My favourite projects that I'm working on right now.</p>
+  
+  <a href="https://github.com/Piturnah/porth-rs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=porth-rs">
+  </a>
+  <a href="https://github.com/Piturnah/nesulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=nesulator">
+  </a>
+</details>
+
+<details>
   <p><summary>Game Jams</summary></p>
   <a href="https://github.com/Piturnah/dicethulhu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=dicethulhu">
