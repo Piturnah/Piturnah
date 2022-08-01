@@ -13,6 +13,9 @@ Hello! I'm **Piturnah** (Pit), and I am a full-time Maths and Computer Science s
   <p><summary>Favourite</summary></p>
   <p>My favourite projects that I'm working on right now.</p>
   
+  <a href="https://github.com/Piturnah/gex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=gex">
+  </a>
   <a href="https://github.com/Piturnah/porth-rs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=porth-rs">
   </a>
