@@ -1,5 +1,11 @@
 ## Piturnah
 
+I'm looking to collaborate on [Bevy Jam #2](https://itch.io/jam/bevy-jam-2)!
+
+### Contact
+- **Discord** - Pit#1452
+- **Twitter** - [@Piturnah](https://twitter.com/piturnah)
+
 <div align="center">
   <a href="https://github.com/Piturnah?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=Piturnah&theme=gotham&count_private=true&custom_title=Piturnah's%20GitHub%20Stats">
