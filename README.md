@@ -73,6 +73,9 @@ Hello! I'm **Piturnah** (Pit), and I am a full-time Maths and Computer Science s
   <a href="https://github.com/Piturnah/nesulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=nesulator">
   </a>
+    <a href="https://github.com/Piturnah/tcols">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=tcols">
+  </a>
   <a href="https://github.com/Piturnah/bf-cipher">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=bf-cipher">
   </a>
