@@ -7,7 +7,7 @@
 </div>
 <br>
 
-Hello! I'm **Piturnah** (Pit), and I am a full-time Maths and Computer Science student in the UK. There's not a whole lot of interesting work public on here at the moment, and as a student I don't have as much time as I'd like to be working on OSS. 😔
+Hello! I'm **Piturnah** (Pit), and I am a full-time Maths and Computer Science student in the UK. You're probably here because of [Gex](https://github.com/Piturnah/gex). Here are a few of my other projects:
 
 <details>
   <p><summary>Favourite</summary></p>
