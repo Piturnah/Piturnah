@@ -1,13 +1,11 @@
 ## Piturnah
 
 <div align="center">
-  <a href="https://github.com/Piturnah?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Piturnah&theme=gotham&count_private=true&custom_title=Piturnah's%20GitHub%20Stats">
-  </a>
+Hello! I'm <b>Piturnah</b> (Pit), and I am a full-time Maths and Computer Science student in the UK. You're probably here because of <a href="https://github.com/Piturnah/gex">Gex</a>.
 </div>
 <br>
 
-Hello! I'm **Piturnah** (Pit), and I am a full-time Maths and Computer Science student in the UK. You're probably here because of [Gex](https://github.com/Piturnah/gex). Here are a few of my other projects:
+Here are a few of my other projects:
 
 <details>
   <p><summary>Favourite</summary></p>
