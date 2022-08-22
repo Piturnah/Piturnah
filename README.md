@@ -24,6 +24,9 @@ Here are a few of my other projects:
 
 <details>
   <p><summary>Game Jams</summary></p>
+  <a href="https://github.com/Piturnah/war-sheep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=war-sheep">
+  </a>
   <a href="https://github.com/Piturnah/dicethulhu">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=dicethulhu">
   </a>
