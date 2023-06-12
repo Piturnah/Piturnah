@@ -1,7 +1,7 @@
 ## Piturnah
 
 <div align="center">
-Hello! I'm <b>Piturnah</b> (Pit), and I'm a full-time Maths and Computer Science student in the UK. You're probably here because of <a href="https://github.com/Piturnah/gex">Gex</a>. <br><br>
+Hello! I'm <b>Piturnah</b> (Pit), and I'm a full-time Maths and Computer Science student in the UK. <br><br>
 Right now I'm primarily working on <a href="https://github.com/fishfolk/bomby">Bomby</a> for Spicy Lobster Studio, an open source arcade-style game built in Rust, alongside doing my degree.
 </div>
 <br>
