@@ -2,11 +2,22 @@
 
 <div align="center">
 Hello! I'm <b>Piturnah</b> (Pit), and I'm a full-time Maths and Computer Science student in the UK. <br><br>
-Right now I'm primarily working on <a href="https://github.com/fishfolk/bomby">Bomby</a> for Spicy Lobster Studio, an open source arcade-style game built in Rust, alongside doing my degree.
+Right now I'm primarily working on <a href="https://github.com/fishfolk/bomby">Gex</a>, a git TUI built in Rust, alongside doing my degree.
 </div>
+
+<br>
+<hr>
+
+### Looking for work placement
+
+I'm currently **looking for work**! Specifically, I'm looking for a year-long work placement - preferably in the UK or the US - from roughly the months of August 2024 - August 2025.
+
+I would **love** to work with the Rust programming language. Please feel free to send me an email.
+
+<hr>
 <br>
 
-Here are a few of my other projects:
+Here are a few of my projects:
 
 <details>
   <p><summary>Favourite</summary></p>
