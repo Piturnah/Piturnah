@@ -12,7 +12,7 @@ Right now I'm primarily working on <a href="https://github.com/fishfolk/bomby">G
 
 I'm currently **looking for work**! Specifically, I'm looking for a year-long work placement - preferably in the UK or the US - from roughly the months of August 2024 - August 2025.
 
-I would **love** to work with the Rust programming language. Please feel free to send me an email.
+I would **love** to work with the Rust programming language. Please feel free to <a href="mailto:peterhebden6@gmail.com">send me an email</a>.
 
 <hr>
 <br>
