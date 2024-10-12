@@ -1,5 +1,15 @@
 ## Piturnah
 
+<hr>
+
+### I have [moved](https://codeberg.org/Piturnah) to Codeberg!
+
+GitHub, run by Microsoft, is profit-oriented capitalist software that fundamentally operates against the principles of free software. [Codeberg](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F) is a nonprofit association controlled democratically by its members, running on open source software ([forgejo](https://forgejo.org/)). It aims to [federate](https://en.wikipedia.org/wiki/ActivityPub) with other forgejo instances when this is implemented, helping to decentralise the web and decrease reliance on monolithic services like GitHub.
+
+For now, I am keeping my old repositories here but any new work will be hosted over on Codeberg. This may change in the future.
+
+<hr>
+
 <div align="center">
 Hello! I'm <b>Piturnah</b> (Pit), and I'm a full-time Maths and Computer Science student in the UK. <br><br>
 Right now I'm primarily working on <a href="https://github.com/Piturnah/gex">Gex</a>, a git TUI built in Rust, alongside doing my degree.
