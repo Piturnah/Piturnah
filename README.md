@@ -2,7 +2,7 @@
 
 <hr>
 
-### I have [moved](https://codeberg.org/Piturnah) to Codeberg!
+### I have [moved](https://codeberg.org/Piturnah) to Codeberg! <img src="https://design.codeberg.org/logo-kit/icon.svg" align="right" style="width: 4em; height: 4em;"></img>
 
 GitHub, run by Microsoft, is profit-oriented capitalist software that fundamentally operates against the principles of free software. [Codeberg](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F) is a nonprofit association controlled democratically by its members, running on open source software ([forgejo](https://forgejo.org/)). It aims to [federate](https://en.wikipedia.org/wiki/ActivityPub) with other forgejo instances when this is implemented, helping to decentralise the web and decrease reliance on monolithic services like GitHub.
 
