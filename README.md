@@ -30,6 +30,9 @@ Here are a few of my projects:
   <a href="https://github.com/Piturnah/porth-rs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=porth-rs">
   </a>
+  <a href="https://github.com/fishfolk/bomby">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fishfolk&repo=bomby">
+  </a>
   <a href="https://github.com/Piturnah/nesulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Piturnah&repo=nesulator">
   </a>
